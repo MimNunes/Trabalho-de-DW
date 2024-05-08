@@ -2,9 +2,11 @@
 
 
 ## Nome e email dos integrantes.
+```
 Ana Gabriella: algabg1@gmail.com
 Breno Antunes: breno.antunes@gmail.com
 Yasmim Nunes: yasmimnunes.yn@gmail.com
+```
 
 
 
