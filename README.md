@@ -11,4 +11,4 @@ Yasmim Nunes: yasmimnunes.yn@gmail.com
 
 
 ## Link para o relatório
-[Implementação de DW](https://docs.google.com/document/d/187ULJKh3qBQ9d6NVLWZnUrlC2laO64hfu207vKR4Rxg/edit?usp=sharing)
+[Documento de Análise e Projeto de Sistema](https://docs.google.com/document/d/187ULJKh3qBQ9d6NVLWZnUrlC2laO64hfu207vKR4Rxg/edit?usp=sharing)
